@@ -1,2 +1,2 @@
 # Motion-Processing-with-CEJNN
-The repository contains code for my thesis project testing Convolutional Elman Jordan Neural Networks in motion processing.
+The repository contains code for my thesis project testing Convolutional Elman Jordan Neural Networks in motion processing. The studies done include generation of synthetic motion data and testing the formerly mentioned network. The project was aimed towards finding an optimal network for action recognition and drawing similarities with the human visual system. Future work would have included inducing lesions in the higher layers of the network to see how well it compared to V5 of the visual cortex (responsible for motion processing).
